@@ -6,6 +6,7 @@
 
 <?php
 echo "Hello World! FROM Dhananjay";
+echo "Always Be happy and healthy"
  
 ?>
 
